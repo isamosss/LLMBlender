@@ -1,4 +1,5 @@
 import logging
+import accelerate
 import torch
 import numpy as np
 import copy
